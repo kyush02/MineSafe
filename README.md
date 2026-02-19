@@ -37,8 +37,8 @@ https://gleeful-khapse-18d858.netlify.app/
 ---
 
 ## 🆘 Emergency SOS Usage
-Click the SOS button in the header.
+-  Click the SOS button in the header.
 
-Choose **CALL** for immediate voice contact with the emergency supervisor (Number).
+-  Choose **CALL** for immediate voice contact with the emergency supervisor (Number).
 
-Choose **MESSAGE** to auto-generate a distress SMS. The app will fetch your GPS coordinates and draft a message with your identity and location for immediate rescue.
+-  Choose **MESSAGE** to auto-generate a distress SMS. The app will fetch your GPS coordinates and draft a message with your identity and location for immediate rescue.
